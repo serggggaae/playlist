@@ -1,6 +1,6 @@
-Radio BluesFlac	http://streams.radiomast.io/radioblues-flac	0	jazz
-Radio Schizoid - ChilloutAmbient	http://94.130.113.214:8000/chill	0
-Radio Schizoid - Dub Techno	http://94.130.113.214:8000/dubtechno	0
+Radio BluesFlac	http://streams.radiomast.io/radioblues-flac	0	Избранное	jazz
+Radio Schizoid - ChilloutAmbient	http://94.130.113.214:8000/chill	0	Избранное
+Radio Schizoid - Dub Techno	http://94.130.113.214:8000/dubtechno	0	Избранное
 Radio Schizoid - Progressive Psychedelic Trance	http://94.130.113.214:8000/prog	0
 Radio Schizoid - Psychedelic Trance	http://94.130.113.214:8000/schizoid	0
 100-HIT-radio	https://radio1.streamserver.link/radio/8010/100hit-aac	0
@@ -517,4 +517,3 @@ Radio Paradise Main Mix FLAC	https://stream.radioparadise.com/flac	0	california
 Radio Paradise Main Mix (EU) FLAC+meta	http://stream-uk1.radioparadise.com/flacm	0	california
 Radio Paradise World/Etc Mix FLAC	https://stream.radioparadise.com/world-etc-flac	0	california
 Radio Paradise Rock Mix FLAC+meta	http://stream.radioparadise.com/rock-flacm	0	california
-		
