@@ -1,6 +1,6 @@
-Radio BluesFlac	http://streams.radiomast.io/radioblues-flac	0	jazz
-Radio Schizoid - ChilloutAmbient	http://94.130.113.214:8000/chill	0
-Radio Schizoid - Dub Techno	http://94.130.113.214:8000/dubtechno	0
+Radio BluesFlac	http://streams.radiomast.io/radioblues-flac	0	Избранное	jazz
+Radio Schizoid - ChilloutAmbient	http://94.130.113.214:8000/chill	0	Избранное
+Radio Schizoid - Dub Techno	http://94.130.113.214:8000/dubtechno	0	Избранное
 Radio Schizoid - Progressive Psychedelic Trance	http://94.130.113.214:8000/prog	0
 Radio Schizoid - Psychedelic Trance	http://94.130.113.214:8000/schizoid	0
 100-HIT-radio	https://radio1.streamserver.link/radio/8010/100hit-aac	0
@@ -124,7 +124,61 @@ Magic Oldies Florida	http://vip2.fastcast4u.com/proxy/magicfla?mp=/1	0
 Magic radio Suisse	http://magicradio.ice.infomaniak.ch/magicradio-high.mp3	0
 Metallica	https://stream.pcradio.ru/Metallica-hi	0
 Must FM Belgique	http://n03a-eu.rcs.revma.com/cm96zpmrmm0uv	0
-Mélodie FM	http://188.165.35.60:8008/;stre/streams.radiobob.de/play.m3u	0
+Mélodie FM	http://188.165.35.60:8008/;stream.mp3	0
+Near FM Ireland	https://nearfm-radiohosting.radioca.st/stream.mp3	0
+Nostalgia Radionomy	http://listen.radionomy.com/radio-nostalgia.m3u	0
+Nostalgie	http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3	0
+Nostalgie 100 Plus Grandes Chansons	http://cdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3	0
+Nostalgie Best-Of 60'S	http://cdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3	0
+Nostalgie Best-Of 70'S	http://cdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3	0
+Nostalgie Chansons Francaises	http://cdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3	0
+Nostalgie Rock	http://cdn.nrjaudio.fm/adwz1/fr/30621/mp3_128.mp3	0
+Nostalgie Tous Les Tubes, Tous Les Styles	http://cdn.nrjaudio.fm/adwz1/fr/30699/mp3_128.mp3	0
+Onda Libera Italy	http://s6.mediastreaming.it:9064/listen.pls	0
+Orcières	http://imagine.net-radio.fr/orcieres-48.aac	0
+Oui FM Top of the Week	http://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3	0
+Oüi FM Acoustic	http://ouifmacoustic.ice.infomaniak.ch/ouifmacoustic.mp3	0
+Oüi FM Alternatif	http://ouifm2.ice.infomaniak.ch/ouifm2.mp3	0
+Oüi FM Bring the noise	http://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3	0
+Oüi FM Bring the noise	http://slowrock.ice.infomaniak.ch/ouifmslowrock.mp3	0
+Oüi FM Classic Rock	http://ouifm3.ice.infomaniak.ch/ouifm3.mp3	0
+Oüi FM Collector	http://stream.collectorradio.fr/ouifm6-128.mp3	0
+Oüi FM Indé	http://ouifm5.ice.infomaniak.ch/ouifm5.mp3	0
+Oüi FM Rock 2000	http://ouifmrock2000s.ice.infomaniak.ch/ouifmrock2000.mp3	0
+Oüi FM Rock 60's	http://ouifmrock60s.ice.infomaniak.ch/ouifmsixties.mp3	0
+Oüi FM Rock 70's	http://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3	0
+Oüi FM Rock 80's	http://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3	0
+Oüi FM Rock 90's	http://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3	0
+Oüi FM Rock Français	http://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3	0
+Oüi FM Summertime	http://ouifmsummertime.ice.infomaniak.ch/ouifmsummertime.mp3	0
+Oüi FM Woodstock	http://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3	0
+OüiI FM	http://ouifm.ice.infomaniak.ch/ouifm-high.mp3	0
+Party Vibe radio	http://www.partyviberadio.com:8000/listen.pls?sid=1	0
+Party Vibe Top 40	http://www.partyviberadio.com:8024/listen.pls?sid=1	0
+Que Viva La Salsa	http://usa7.fastcast4u.com/proxy/lvaldi02?mp=/1	0
+Radio Bloodstream	http://uk1.internet-radio.com:8294/live.m3u	0
+RADIO BOB - 2000er Rock	https://streams.radiobob.de/2000er/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - 70er Rock	https://streams.radiobob.de/70errock/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - 80er Rock	https://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - 90er Rock	https://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - AC/DC Collection	https://streams.radiobob.de/bob-acdc/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Alternative Rock	https://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/	0
+RADIO BOB - Alternative Rock	https://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Best of Rock	https://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Blues	https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - BOB's Livestream	http://streams.radiobob.de/bob-national/mp3-192/mediaplayer	0
+RADIO BOB - BossHoss Rockshow	https://streams.radiobob.de/bosshoss/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Britpop	https://streams.radiobob.de/bob-britpop/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Chillout Unplugged Songs	https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Christmas Rock	https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Classic Rock	https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - College Rock	https://streams.radiobob.de/collegerock/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Country	https://streams.radiobob.de/country/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Death Metal	https://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Deutsch Rock	https://streams.radiobob.de/bob-deutsch/mp3-192/streams.radiobob.de/	0
+RADIO BOB - Deutsch Rock	https://streams.radiobob.de/bob-deutsch/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Donots	https://streams.radiobob.de/donots/mp3-192/streams.radiobob.de/play.m3u	0
+RADIO BOB - Electro Rock	https://streams.radiobob.de/electrorock/mp3-192/streams.radiobob.de/play.m3u	0
 RADIO BOB - Emo	https://streams.radiobob.de/emo/mp3-192/streams.radiobob.de/play.m3u	0
 RADIO BOB - Festival	https://streams.radiobob.de/bob-festival/mp3-192/streams.radiobob.de/play.m3u	0
 RADIO BOB - Folk Rock	https://streams.radiobob.de/folkrock/mp3-192/streams.radiobob.de/play.m3u	0
