@@ -1,6 +1,6 @@
-Radio BluesFlac	http://streams.radiomast.io/radioblues-flac	0	jazz
+Radio BluesFlac	http://streams.radiomast.io/radioblues-flac	0	Избранное	jazz
 Radio Schizoid - ChilloutAmbient	http://94.130.113.214:8000/chill	0
-Radio Schizoid - Dub Techno	http://94.130.113.214:8000/dubtechno	0	Избранное
+Radio Schizoid - Dub Techno	http://94.130.113.214:8000/dubtechno	0
 Radio Schizoid - Progressive Psychedelic Trance	http://94.130.113.214:8000/prog	0
 Radio Schizoid - Psychedelic Trance	http://94.130.113.214:8000/schizoid	0
 100-HIT-radio	https://radio1.streamserver.link/radio/8010/100hit-aac	0
@@ -390,13 +390,13 @@ Aardvark Blues FM	https://ais-sa5.cdnstream1.com/b77280_128mp3	0
 All Blues Radio	http://equinox.shoutca.st:8788/;	0
 Allzic Radio Blues	http://allzic09.ice.infomaniak.ch/allzic09.mp3	0
 Bar Legend Radio	https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream	0
-Big Blue Swing 	http://radio.bigblueswing.com:8002/;64bit.mp3	0
+Big Blue Swing	http://radio.bigblueswing.com:8002/;64bit.mp3	0
 Blues - Caprice Radio	http://79.120.77.11:8000/blues	0
 Blues & Rock Radio	http://stream.laut.fm/bluesrock	0
 Blues Club - Laut.FM	http://stream.laut.fm/bluesclub	0
 Blues Radio Greece	http://cast3.radiohost.ovh:8352/	0
 BluesRadio (MRG.fm)	http://listen.mrg.fm:8188/stream	0
-BluesWave Radio 	https://blueswave.radio:8100/hifiblues	0
+BluesWave Radio	https://blueswave.radio:8100/hifiblues	0
 Classic 21 Blues	http://radios.rtbf.be/wr-c21-blues-128.mp3	0
 Country/folk blues - Radio Caprice	http://79.120.77.11:8004/countryblues	0
 EBS | Blues	https://azura.ebsmedia.ro/listen/blues/blues128.mp3	0
@@ -509,3 +509,11 @@ CoSTa's Ambient Radio	https://pc.costa-server.info.pl:11020/listen/costas_ambien
 RMF Chillout	http://31.192.216.8/CHILLOUT	0	chillout
 Radio Pasja - Chillout	http://91.232.4.33:8108/stream2	0	chillout
 Chillizet Ladies -om	https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01	0	chill
+Nashe classic	http://nashe1.hostingradio.ru/nasheclassic.mp3	0
+Intense Radio - We love Dance #HQ# FLAC	http://secure.live-streams.nl/flac.ogg	0	90s
+Radio Paradise Rock Mix FLAC	https://stream.radioparadise.com/rock-flac	0	alternative
+Radio Paradise Mellow Mix FLAC	https://stream.radioparadise.com/mellow-flac	0	california
+Radio Paradise Main Mix FLAC	https://stream.radioparadise.com/flac	0	california
+Radio Paradise Main Mix (EU) FLAC+meta	http://stream-uk1.radioparadise.com/flacm	0	california
+Radio Paradise World/Etc Mix FLAC	https://stream.radioparadise.com/world-etc-flac	0	california
+Radio Paradise Rock Mix FLAC+meta	http://stream.radioparadise.com/rock-flacm	0	california
