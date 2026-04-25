@@ -513,8 +513,8 @@ Nashe classic	http://nashe1.hostingradio.ru/nasheclassic.mp3	0
 Intense Radio - We love Dance #HQ# FLAC	http://secure.live-streams.nl/flac.ogg	0	90s
 Radio Paradise Rock Mix FLAC	https://stream.radioparadise.com/rock-flac	0	alternative
 Radio Paradise Mellow Mix FLAC	https://stream.radioparadise.com/mellow-flac	0	california
-Radio Paradise Main Mix FLAC	https://stream.radioparadise.com/flac	0	Избранное	california
-Radio Paradise Main Mix (EU) FLAC+meta	http://stream-uk1.radioparadise.com/flacm	0	Избранное	california
+Radio Paradise Main Mix FLAC	https://stream.radioparadise.com/flac	0	Избранное
+Radio Paradise Main Mix (EU) FLAC+meta	http://stream-uk1.radioparadise.com/flacm	0	Избранное
 Radio Paradise World/Etc Mix FLAC	https://stream.radioparadise.com/world-etc-flac	0	california
 Radio Paradise Rock Mix FLAC+meta	http://stream.radioparadise.com/rock-flacm	0
 metallica	https://nl4.mystreaming.net/er/metallica/icecast.audio	0	Избранное
@@ -522,5 +522,4 @@ Accept	https://stream.pcradio.ru/accept-hi	0
 Best Of Rock.FM AC DC	https://bestofrockfm.stream.vip/acdc/mp3-256/bestofrock.fm/	0	ac dc
 Virgin Radio Rockstar Acdc	https://icy.unitedradio.it/um1026.mp3	0
 Exclusively Acdc Hits	https://streaming.exclusive.radio/er/acdchits/icecast.audio	0
-Best of Rock FM Acdc	https://bestofrockfm.stream.vip/acdc/mp3-25	0
 Radio BOB ACDC Collection	https://streams.radiobob.de/bob-acdc/mp3-192	0
