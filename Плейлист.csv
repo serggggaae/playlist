@@ -1,8 +1,4 @@
 Radio BluesFlac	http://streams.radiomast.io/radioblues-flac	0	Избранное
-Radio Schizoid - ChilloutAmbient	http://94.130.113.214:8000/chill	0	Избранное
-Radio Schizoid - Dub Techno	http://94.130.113.214:8000/dubtechno	0
-Radio Schizoid - Progressive Psychedelic Trance	http://94.130.113.214:8000/prog	0
-Radio Schizoid - Psychedelic Trance	http://94.130.113.214:8000/schizoid	0
 100-HIT-radio	https://radio1.streamserver.link/radio/8010/100hit-aac	0
 1940 Radio	https://solid2.streamupsolutions.com/proxy/rsbudoyu?mp=/;type=mp3	0
 2 FM	https://stream.pcradio.ru/hity_rossii-hi	0
@@ -414,6 +410,11 @@ Jump Blues - Caprice Radio	http://213.141.131.10:8000/jumpblues	0
 Laut.FM BluesRockCafe	http://stream.laut.fm/bluesrockcafe	0
 Louisiana/Swamp/New Orleans Blues - Radio Caprice	http://213.141.131.10:8004/louisianablues	0
 Pinguin Blues	https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006	0
+Radio Schizoid - ChilloutAmbient	http://94.130.113.214:8000/chill	0	Избранное
+Radio Schizoid - Dub Techno	http://94.130.113.214:8000/dubtechno	0
+Radio Schizoid - Progressive Psychedelic Trance	http://94.130.113.214:8000/prog	0
+Radio Schizoid - Psychedelic Trance	http://94.130.113.214:8000/schizoid	0
+Radio Schizoid - Chillout / Ambient	http://94.130.113.214:8000/chill	0	chill
 Radio Art - Acoustic Blues	http://air.radioart.com/fAcoustic_blues.mp3	0
 Radio Art Acoustic Blues	https://live.radioart.com/fAcoustic_blues.mp3	0
 Radio Blues Djerdan	https://stream.zeno.fm/vxr78nb51k8uv	0
@@ -437,7 +438,6 @@ WUMB Blues Boston 91.9	http://wumb.streamguys1.com/wumb919fast	0
 WWOZ 90.7 New Orleans, LA	http://wwoz-sc.streamguys.com/wwoz-hi.mp3	0
 Радио Монте Карло - Wonderful Blues	https://mc-blues.hostingradio.ru/blues96.aacp	0
 Спокойное радио	https://listen1.myradio24.com/6262	0	ambient
-Radio Schizoid - Chillout / Ambient	http://94.130.113.214:8000/chill	0	chill
 ABC Lounge Radio	https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1	0	ambient
 Antenne Bayern - Chillout	http://mp3channels.webradio.antenne.de/chillout	0	chillout
 Radio Monte Carlo 105.9 FM	https://icecast227.ptspb.ru:8443/monte	0	chillhouse
