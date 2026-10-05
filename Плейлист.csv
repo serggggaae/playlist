@@ -1,8 +1,8 @@
 - 0 N - Blues on Radio	https://0n-blues.radionetz.de/0n-blues.mp3	0	Избранное
 - 0 N - Chillout on Radio	https://0n-chillout.radionetz.de/0n-chillout.aac	0	Избранное
-- 0 N - Smooth Jazz on Radio	https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac	0	Избранное
+- 0 N - Smooth Jazz on Radio	https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac	0
 1 A - Relax von 1A Radio	https://1a-relax.radionetz.de/1a-relax.mp3	0
-1.FM - Afterbeat Electronica Radio	http://strm112.1.fm/electronica_mobile_mp3	0	Избранное
+1.FM - Afterbeat Electronica Radio	http://strm112.1.fm/electronica_mobile_mp3	0
 1.FM - Blues Radio	http://strm112.1.fm/blues_mobile_mp3	0	Избранное
 1.FM - Chillout Lounge Radio	http://strm112.1.fm/chilloutlounge_mobile_mp3	0
 1.FM - Ibiza Chill Tropical	http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true	0
@@ -49,7 +49,7 @@ Bar Legend Radio	https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream
 Beatles Radio	http://www.beatlesradio.com:8000/stream/1/	0
 Best Of Rock.FM AC DC	https://bestofrockfm.stream.vip/acdc/mp3-256/bestofrock.fm/	0	Избранное
 BGRADIO	http://play.global.audio/bgradio128.m3u	0
-Black Rhino Radio	https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a	0	Избранное
+Black Rhino Radio	https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a	0
 Blues & Rock Radio	http://stream.laut.fm/bluesrock	0	Избранное
 Blues Club - Laut.FM	http://stream.laut.fm/bluesclub	0	Избранное
 Blues Radio	http://cast3.radiohost.ovh:8352/	0
@@ -81,8 +81,8 @@ Dinamo.fm sleep	http://channels.dinamo.fm/sleep-mp3	0
 Disco Ball 70's - -80's	http://strm112.1.fm/disco_mobile_mp3	0
 DnB&EDM	https://edmdnb.com:448/radio/8000/radio.mp3	0
 Earth Uk	http://media-ice.musicradio.com/HeartLondonMP3.m3u	0
-easy radio	http://streaming.exclusive.radio/uber/easyrock/icecast.audio	0	Избранное
-EBS | Blues	https://azura.ebsmedia.ro/listen/blues/blues128.mp3	0	Избранное
+easy radio	http://streaming.exclusive.radio/uber/easyrock/icecast.audio	0
+EBS | Blues	https://azura.ebsmedia.ro/listen/blues/blues128.mp3	0
 EPIC CLASSICAL	https://stream.epic-classical.com/classical-music-for-sleep	0
 Epic Lounge - CHILLOUT LOUNGE	https://stream.epic-lounge.com/chillout-lounge?ref=radiobrowser	0
 Epic Lounge - SLEEP & MEDITATION	https://stream.epic-lounge.com/sleep-meditation?ref=radiobrowser	0
@@ -177,7 +177,7 @@ Oüi FM Rock 90's	http://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3	0
 Oüi FM Rock Français	http://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3	0
 Oüi FM Summertime	http://ouifmsummertime.ice.infomaniak.ch/ouifmsummertime.mp3	0
 Oüi FM Woodstock	http://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3	0
-OüiI FM	http://ouifm.ice.infomaniak.ch/ouifm-high.mp3	0	Избранное
+OüiI FM	http://ouifm.ice.infomaniak.ch/ouifm-high.mp3	0
 Party Vibe radio	http://www.partyviberadio.com:8000/listen.pls?sid=1	0
 Pinguin Blues	https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006	0
 Positively Meditation -om	https://streaming.positivity.radio/pr/posimeditation/icecast.audio	0
